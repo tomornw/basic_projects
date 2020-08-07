@@ -15,7 +15,8 @@ class SpringjpaApplicationTests {
 	@Test
 	void queryGradeBP() {
 		String dataString = "A";
-		assertEquals("A", dataString);
+
+		assertEquals("B", dataString);
 	}
 
 }
