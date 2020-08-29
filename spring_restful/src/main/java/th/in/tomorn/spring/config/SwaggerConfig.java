@@ -1,4 +1,4 @@
-package th.in.tomorn.springjpa.config;
+package th.in.tomorn.spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
