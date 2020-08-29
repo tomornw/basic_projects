@@ -13,9 +13,9 @@ import th.in.tomorn.spring.controller.request.CustomerRequest;
 import th.in.tomorn.spring.service.CustomerService;
 
 @SpringBootTest
-class SpringjpaApplicationTests {
+class SpringRestfulApplicationTests {
 
-    private static final Logger LOG = LoggerFactory.getLogger(SpringjpaApplicationTests.class);
+    private static final Logger LOG = LoggerFactory.getLogger(SpringRestfulApplicationTests.class);
 
     @Autowired
     private CustomerService customerService;
