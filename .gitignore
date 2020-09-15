@@ -1,2 +1,8 @@
 /jsf_basic/target/*
 /jsf_primefaces/target/*
+jsf_primefaces/.classpath
+jsf_primefaces/.project
+jsf_primefaces/.settings/org.eclipse.core.resources.prefs
+jsf_primefaces/.settings/org.eclipse.jdt.apt.core.prefs
+jsf_primefaces/.settings/org.eclipse.jdt.core.prefs
+jsf_primefaces/.settings/org.eclipse.m2e.core.prefs
